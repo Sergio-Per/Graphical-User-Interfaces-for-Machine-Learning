@@ -16,4 +16,4 @@
 
 ## Random Forest decision Tree
 
-https://github.com/Sergio-Per/Graphical-User-Interfaces-for-Machine-Learning/blob/main/Random%20Forest%20and%20Dec%20Tree%20GUI.jpg
+![alt text](https://github.com/Sergio-Per/Graphical-User-Interfaces-for-Machine-Learning/blob/main/Random%20Forest%20and%20Dec%20Tree%20GUI.jpg)
