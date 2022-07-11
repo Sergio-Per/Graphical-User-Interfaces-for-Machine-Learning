@@ -1,5 +1,5 @@
 # Graphical-User-Interfaces-for-Machine-Learning
-## Jupyter interactive widgets are used to observe Machine Learning models at work when hyper-parameters are changed
+## Jupyter interactive widgets are used to observe Machine Learning models at work when the hyper-parameters or the dataset change.
 
 ## K-Nearest Neighbours for Classification
 
